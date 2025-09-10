@@ -1,30 +1,37 @@
-# Olá, meu nome é Lucas de Santana Schmalz e sou:
 
-🎓 **Bacharel em Sistemas de Informação.**  
+# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá , me chamo Lucas de Santana Schmalz  
 
-🚀 **Apaixonado por tecnologia, inovação e jogos desde criança.**
+**Desenvolvedor Web** | **Bacharel em Sistemas de Informação**   
 
-💡 **Gosto de criar, testar e construir projetos com criatividade e propósito, lidando tanto com código, quanto com o visual.**
+Desde criança sou apaixonado pelo mundo da tecnologia e por games. Durante minha adolescência, comecei a explorar a área de T.I. por meio de cursos e estudos pessoais. Em 2021, aprofundei meus conhecimentos com o curso de Sistemas de Informação no Senac, e agora, formado, estou focado em desenvolvimento web, inicialmente com HTML, CSS e JavaScript.
+
+Busco não apenas aprender como algo é feito, mas também entender o porquê por trás das soluções. Após consolidar uma base sólida em JavaScript, meu próximo passo é me aprofundar em frameworks, como o React, para construir aplicações modernas e eficientes.
+
+---
+## Tecnologias e Ferramentas  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff) 
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
+
+ ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=fff) ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=trello&logoColor=fff) ![UML](https://img.shields.io/badge/-UML-02569B?style=flat&logo=uml&logoColor=fff)  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Projetos em Destaque
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=fff)
+- [Yu-Gi-Oh Jokenpo](https://bit.ly/yugiohschmalz)  
+- [Pokédex Web](https://bit.ly/pokedexschmalz)  
+- [Discord Clone](https://bit.ly/discordschmalz)  
+- [Portfólio Pessoal](https://bit.ly/portfolioschmalz)  
+  
+---
+
+## Vamos nos conectar  
+- [Portfólio](https://portfolio-lucas-de-santana-schmalzs-projects.vercel.app)  
+- [LinkedIn](https://www.linkedin.com/in/lucasschmalz/)  
+- [GitHub](https://github.com/LuketeS)  
+- lsschmalz@gmail.com  
 
 ---
 
-## 📫 Onde me encontrar
-
-- LinkedIn: [lucasschmalz](https://www.linkedin.com/in/lucasschmalz/)
-- E-mail: lsschmalz@gmail.com  
-- Portfólio: *[em construção]*
-
-
-
+✨ Aberto a oportunidades como **Desenvolvedor Web Júnior**  
