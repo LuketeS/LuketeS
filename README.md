@@ -5,7 +5,7 @@
 
 Desde criança sou apaixonado pelo mundo da tecnologia e por games. Durante minha adolescência, comecei a explorar a área de T.I. por meio de cursos e estudos pessoais. Em 2021, aprofundei meus conhecimentos com o curso de Sistemas de Informação no Senac, e agora, formado, estou focado em desenvolvimento web, inicialmente com HTML, CSS e JavaScript.
 
-Busco não apenas aprender como algo é feito, mas também entender o porquê por trás das soluções. Após consolidar uma base sólida em JavaScript, meu próximo passo é me aprofundar em frameworks, como o React, para construir aplicações modernas e eficientes.
+Busco não apenas aprender como algo é feito, mas também entender o porquê por trás das soluções. Depois de fortalecer minha base em JavaScript, meu foco é estudar frameworks como o React e evoluir na construção de aplicações web.
 
 ---
 ## Tecnologias e Ferramentas  
