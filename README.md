@@ -21,7 +21,8 @@ Busco não apenas aprender como algo é feito, mas também entender o porquê po
 
 - [Yu-Gi-Oh Jokenpo](https://bit.ly/yugiohschmalz)  
 - [Pokédex Web](https://bit.ly/pokedexschmalz)  
-- [Discord Clone](https://bit.ly/discordschmalz) 
+- [Discord Clone](https://bit.ly/discordschmalz)
+- [Portfólio](https://github.com/LuketeS/portfolio-lucas-de-santana-schmalz) 
   
 ---
 
