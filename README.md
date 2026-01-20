@@ -19,6 +19,7 @@ Busco não apenas aprender como algo é feito, mas também entender o porquê po
 
 ## Projetos em Destaque
 
+- [Schluk Games](https://github.com/LuketeS/schluk-games) 
 - [Yu-Gi-Oh Jokenpo](https://bit.ly/yugiohschmalz)  
 - [Pokédex Web](https://bit.ly/pokedexschmalz)  
 - [Discord Clone](https://bit.ly/discordschmalz)
